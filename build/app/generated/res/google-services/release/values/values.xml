@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">663744097065-nshof0s0299ubqhcdg3nkbo3ki0dcgul.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">663744097065</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdgbtUw-u3NN1n5AA6aEHUYwiAaRjbS-g</string>
+    <string name="google_app_id" translatable="false">1:663744097065:android:307f8193efb9974fc4a538</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdgbtUw-u3NN1n5AA6aEHUYwiAaRjbS-g</string>
+    <string name="google_storage_bucket" translatable="false">miracle-e2e5b.appspot.com</string>
+    <string name="project_id" translatable="false">miracle-e2e5b</string>
+</resources>
