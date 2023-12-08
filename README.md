@@ -36,51 +36,57 @@
 ### 🏚  HOME Page
 
 <div align=center>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/92083985-683d-43b4-af70-700547722ed8" width="1000" height="600"/>
+
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/2b262bd7-da13-4fdc-a525-fe2d50349608" width="200" height="400"/>
 </div>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/e09e5263-b8bb-4f77-9fbe-87cf8694f3ff" width="600" height="400"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/dec09ad3-5f31-4f20-b1a8-f866a03a5e5f" width="400" height="300"/>
-
-------------------
-  
-
-### 📋 Influencer List Page
-<br>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/5dc77a02-5152-4219-b052-45b2f97cd301" width="500" height="300"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/ffcd622c-274a-4879-9f1c-fc38f907c909" width="400" height="300"/>
-
 ------------------
 
-### 📊 Analysis page
+
+
+### 📋 Picture Page
 <br>
 
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/5c047466-ce56-40c8-8970-8f1313695909" width="330" height="270"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/3e02e7a6-5b67-40f8-b732-fdb56274757e" width="330" height="270"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/f48ebe4f-a25a-402b-a7dd-75292532ec29" width="330" height="270"/>
+<div align=center>
 
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/ca4c8e5b-b37d-481b-8469-7419b7140755" width="200" height="300"/>
+</div>
+
+------------------
+
+### 📊 Rank page
+<br>
+<div align=center>
+
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/a628c6e5-f543-4247-b89a-9c43b4870631" width="200" height="300"/>
+</div>
 ------------------
 
 
 
 ### 👍 Recommended page
 <br>
+<div align=center>
 
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/2a174ba8-423e-4793-9743-44b7d8896f14" width="400" height="300"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/1a58e60a-a725-4095-a30c-cd0e5a2f921b" width="600" height="300"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/ce4945ea-8902-42a3-a596-86ec667eed6e" width="500" height="350"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/252d6e17-e485-407a-8f05-c156a8772e6a" width="500" height="350"/>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/b408abd9-4814-43c8-9231-e3905f56167a" width="500" height="300"/>
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/f5dded0c-f1cb-49ac-af5c-66abd0284aa0" width="200" height="300"/>
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/d964d0f9-d686-4e5b-9640-97648743eaf4" width="200" height="300"/>
+</div>
 
+------------------
 
+### 👍 Mypage
+<br>
+<div align=center>
+
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/3c51d257-3f01-4429-a82f-02c3bb75e37d" width="200" height="300" />
+</div>
 ------------------
 
 ## 🔌시스템 아키텍쳐🖥
 <div align=center>
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/a3a0f66f-202e-4f67-8b04-5bd1d2cd2069" >
-</div>
 
-## 💾ERD💾
-<img src="https://github.com/Wonhee0221/Cos_tard/assets/91041488/de3c1e3d-848d-44f4-b2ef-158e73258a48" >
+
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/0e2c1ddb-c875-46bd-af10-5f1e3075bc52" >
+</div>
 
 ## 📅프로젝트 일정
 
