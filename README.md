@@ -39,6 +39,7 @@
 
 <img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/2b262bd7-da13-4fdc-a525-fe2d50349608" width="200" height="400"/>
 </div>
+
 ------------------
 
 
@@ -47,7 +48,6 @@
 <br>
 
 <div align=center>
-
 <img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/ca4c8e5b-b37d-481b-8469-7419b7140755" width="200" height="300"/>
 </div>
 
@@ -59,6 +59,7 @@
 
 <img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/a628c6e5-f543-4247-b89a-9c43b4870631" width="200" height="300"/>
 </div>
+
 ------------------
 
 
@@ -79,13 +80,18 @@
 
 <img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/3c51d257-3f01-4429-a82f-02c3bb75e37d" width="200" height="300" />
 </div>
+
 ------------------
 
-## 🔌시스템 아키텍쳐🖥
+## 🔌실행영상
 <div align=center>
 
 
-<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/0e2c1ddb-c875-46bd-af10-5f1e3075bc52" >
+
+
+
+
+<img src="https://github.com/Wonhee0221/Carbon_footprint/assets/91041488/a3227787-2e94-4969-bc59-50124018c786" >
 </div>
 
 ## 📅프로젝트 일정
